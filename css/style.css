@@ -1,0 +1,155 @@
+
+.imge
+{
+    background-image: url(../img/drew-coffman-1872.jpg);
+    background-size: 100% 100%;
+    width: 100wh;
+    height: 100vh;
+   
+}
+.opcty
+{
+    width: 100wh;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.541);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.caption
+{
+    color: white;
+    text-align: center;
+    
+}
+.caption h3 
+{
+    font-size: 30px;
+    padding-bottom: 10px;
+    font-family: 'Nova Flat', cursive;   
+}
+.caption h1 
+{
+    font-size: 50px;
+    font-family: 'Nova Flat', cursive;
+    padding-bottom: 10px;
+}
+.caption p
+{
+font-size: 15px;
+font-family: 'Nova Flat', cursive;
+}
+#btn
+{
+font-family: 'Nova Flat', cursive;
+}
+.headd
+{
+
+font-size: 30px;
+font-family: 'Nova Flat', cursive;
+padding-left: 20px;
+}
+.vv
+{
+    font-size: 20px;
+    font-family: 'Nova Flat', cursive;  
+}
+.image img 
+{
+    width: 100%;
+}
+.w
+{
+    color: rgb(114, 73, 19);
+    font-family: 'Nova Flat', cursive;  
+    font-size: 35px;
+}
+.rs span
+{
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+}
+.twoh 
+{
+    color: rgb(114, 73, 19);
+    font-family: 'Nova Flat', cursive;  
+    font-size: 35px;  
+}
+.our
+{
+    color: rgb(114, 73, 19);
+    font-family: 'Nova Flat', cursive;  
+}
+
+
+.ourB
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    
+   
+}
+
+
+.rts span
+{
+    padding-left: 15px;
+    font-weight: 400;
+}
+.pr
+{
+    position: relative;
+}
+ .pa{
+     position: absolute;
+     right: 0%;
+     bottom: -5%;
+ }
+.ff
+{
+    width: 100%;
+}
+.fotimg
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fotimg img 
+{   margin-top: 30px;
+    width: 12%;
+    
+}
+footer{
+   
+}
+.icons
+{
+    display: flex;
+    /* align-items: center; */
+    justify-content:center;
+}
+.socialm
+{  padding: 20px 0;
+    padding-left: 15px;
+    color: rgb(46, 45, 45);
+    font-size:15px;
+    transition: color ;
+}
+.fa-facebook-f:hover
+{
+    color: blue;
+}
+.fa-instagram:hover
+{
+ color: rgb(243, 11, 193);
+}
+.fa-twitter:hover
+{
+    color: rgb(6, 162, 209);
+}
+
